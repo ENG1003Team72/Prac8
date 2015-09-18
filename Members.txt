@@ -2,13 +2,6 @@ LIST OF MEMBERS FOR TEAM 72
  
 MEMBER 1 Dara Bouphasavanh
 
-MEMBER 2 Harry Prior
- 
-MEMBER 3 Angus Mitchell
- 
-MEMBER 4 Christopher Yeung
-
-
 Dara Bouphasavanh 
 
 I am a 19 year old female and I am studying straight engineering. 
@@ -16,3 +9,11 @@ I am a 19 year old female and I am studying straight engineering.
 Role in Project: (don't know yet)
 
 Preferred branch of engineering: civil
+
+MEMBER 2 Harry Prior
+ 
+MEMBER 3 Angus Mitchell
+ 
+MEMBER 4 Christopher Yeung
+
+
