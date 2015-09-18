@@ -11,9 +11,23 @@ Role in Project: (don't know yet)
 Preferred branch of engineering: civil
 
 MEMBER 2 Harry Prior
+Age: 18
+Student at Monash
+Undertaking a bachelor of engineering and a bachelor in commerce
+Role in Project: Vice President of Coordinating
+Preferred branch of engineering: Mechanical
  
 MEMBER 3 Angus Mitchell
+My names Angus and I like to party
  
 MEMBER 4 Christopher Yeung
 
+<<<<<<< HEAD
 
+=======
+I am a first year Eng/Comm student
+
+Role in project: Team Leader/Coordinator
+
+Preferred branch of engineering: Civil
+>>>>>>> master
