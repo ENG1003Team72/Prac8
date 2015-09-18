@@ -8,3 +8,9 @@ MEMBER 3 Angus Mitchell
 My names Angus and I like to party
  
 MEMBER 4 Christopher Yeung
+
+I am a first year Eng/Comm student
+
+Role in project: Team Leader/Coordinator
+
+Preferred branch of engineering: Civil
