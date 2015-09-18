@@ -5,5 +5,6 @@ MEMBER 1 Dara Bouphasavanh
 MEMBER 2 Harry Prior
  
 MEMBER 3 Angus Mitchell
+My names Angus and I like to party
  
 MEMBER 4 Christopher Yeung
